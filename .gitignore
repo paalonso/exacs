@@ -39,4 +39,4 @@ terraform.rc
 **/*oci-credentials.tfvars.json
 
 # Macos finder
-**/.DS_Store
+.DS_Store
