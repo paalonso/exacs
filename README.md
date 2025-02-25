@@ -2,7 +2,12 @@
 
 ## Architecture of this ExaCS Workload Extension example: 
 
-![ExaCS Workload Extension Architecture](content/ExaCS-WL-Ext-Arch.jpg)
+
+Architecture using Hub B:
+![ExaCS Workload Extension Architecture Hub B](content/ExaCS-WL-Ext-Arch-Hub-B.jpg)
+
+Architecture using Hub E:
+![ExaCS Workload Extension Architecture Hub E](content/ExaCS-WL-Ext-Arch-Hub-E.jpg)
 
 ## Running with OCI Resource Manager Service
 
